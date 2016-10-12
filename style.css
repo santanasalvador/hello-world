@@ -1,8 +1,9 @@
-body {
-    background-size:cover;
-    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJgDaNmMP7EmtvSJn5VIOAaq4q5i5nxbPpJzJnu55KwNQer0I");
+body{height:100%;
+   width:100%;
+;background: url("http://assets.pokemon.com/assets/cms2/img/trading-card-game/_downloads/xy1/xy1-wallpaper-xerneas-th-169.jpg");
+    background-repeat:none;
     color:#000000
-    font-family:arial
+    font-family:Arial;
 }
  .banner {
     margin:0px auto;
@@ -16,3 +17,12 @@ body {
     border-color:#000000
     border:5px 0px 5px 0px;
  }
+.fire {
+    background-color:white;
+}
+.water {
+    background-color:yellow;
+}
+.weee {
+    background-color:red:
+}
