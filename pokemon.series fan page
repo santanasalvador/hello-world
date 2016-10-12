@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <link rel='stylesheet' href='style.css'/>
+    <script src='script.js'></script>
+    <div class="automotive">
+    <link rel="stylesheet"href="https:s3amazonaws.com/codeacademycontent/prjects/bootstrap.min.css">
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+     <!DOCTYPE html>
+<html>
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <link rel='stylesheet' href='style.css'/>
+    <script src='script.js'></script>
+    <div class="automotive">
+    <link rel="stylesheet"href="https:s3amazonaws.com/codeacademycontent/prjects/bootstrap.min.css">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0"
+  id="name" width="468" height="60">
+  <param name="movie" value="http://www.yourdomain.com/flashfile.swf?clickTAG=http://www.test.com">
+  <param name="quality" value="high">
+  <param name="wmode" value="transparent">
+  <embed name="name" src="http://www.yourdomain.com/flashfile.swf?clickTAG=http://www.test.com"
+  quality="high" wmode="transparent" width="468" height="60"
+  type="application/x-shockwave-flash" 
+pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?
+P1_Prod_Version=ShockwaveFlash">
+  </embed>
+</object> 
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <ul class="nav nav-tabs">
+                <li row="cash"><a href="#"> Learn More</a></li>
+                <li row="cash"><a href="#"> Contact</a></li>
+                <li row="cash"><a href="#"> Help</a></li>
+                <li row="now"><a href="/webpages/code.html">COMING SOON</a>
+            </ul>
+        </div>
+    </div>   
+</head>
+<body>
+
+</body>
+</html>
